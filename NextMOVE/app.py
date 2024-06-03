@@ -7,7 +7,7 @@ import tempfile
 import openai
 
 # Initialize OpenAI API (Replace with your API key)
-openai.api_key = '<USER_YOUR_OPENAI_API_KEYP_HERE'
+openai.api_key = '<USER_YOUR_OPENAI_API_KEYP_HERE>'
 
 
 def extract_text_from_pdf(pdf_path):
