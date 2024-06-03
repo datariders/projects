@@ -85,7 +85,6 @@ st.title("NextMOVE:  Personal Chess training assistant for preparing against eac
 
 # MongoDB connection with SSL/TLS options
 # Connecting to MongoDB cluster and server (Replace with your MongoDB cluster and server connection string)
-
 client = MongoClient(
     "<ENTER_YOUR_MONGODB_CLUSTER_AND_SERVER_CONNECTION_STRING>",
     tls=True,
