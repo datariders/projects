@@ -1,5 +1,5 @@
 import streamlit as st
-import fitz  # PyMuPDF
+#import fitz  # PyMuPDF
 import pymupdf
 from sentence_transformers import SentenceTransformer
 from pymongo import MongoClient
@@ -7,7 +7,7 @@ import tempfile
 import openai
 
 # Initialize OpenAI API (Replace with your API key)
-openai.api_key = '<USER_YOUR_OPENAI_API_KEYP_HERE>'
+openai.api_key = '<ENTER_YOUR_OPENAI_API_KEY_HERE>'
 
 
 def extract_text_from_pdf(pdf_path):
@@ -84,8 +84,10 @@ st.title("NextMOVE:  Personal Chess training assistant for preparing against eac
 
 
 # MongoDB connection with SSL/TLS options
+# Connecting to MongoDB cluster and server (Replace with your MongoDB cluster and server connection string)
+
 client = MongoClient(
-    "mongodb+srv://arivolit:arivolit123@mongodbcluster0.bjmkbwc.mongodb.net/?retryWrites=true&w=majority&appName=MongoDBCluster0",
+    "<ENTER_YOUR_MONGODB_CLUSTER_AND_SERVER_CONNECTION_STRING>",
     tls=True,
     tlsAllowInvalidCertificates=True
 )
