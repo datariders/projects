@@ -1,1 +1,3 @@
-The games showcased here were downloaded from the publicly available website link of the FIDE organization, which is the International governinig organizxatoin for Chess.  The games are in the PGN format.
+The FIDE organization is the governing International organization for Chess.  All the FIDE games are publicly available for download from their website.  Some games are showcased here.
+
+The games are in the PGN format.
