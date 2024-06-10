@@ -1,4 +1,4 @@
-# NextMOVE
+# NextMOVE - Personalized Chess Training Assistant
 
 ## Introduction
 
