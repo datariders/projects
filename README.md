@@ -21,4 +21,6 @@ player’s style and tendencies.
 
 ## Control Flow
 
+![NextMOVE Control flow](https://github.com/datariders/projects/blob/main/NextMOVE/docs/NextMOVE_control_flow.png?raw=true “NextMOVE Control flow")
+
 ## App screenshots
