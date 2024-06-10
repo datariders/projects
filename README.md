@@ -26,3 +26,13 @@ player’s style and tendencies.
 ![NextMOVE Control flow](https://github.com/datariders/projects/blob/main/NextMOVE/docs/NextMOVE_control_flow.png?raw=true "NextMOVE Control flow")
 
 ## App screenshots
+
+!NextMOVE_screenshot_1](https://github.com/datariders/projects/blob/main/NextMOVE/docs/NextMOVE_screenshot_1.png?raw=true "NextMOVE_screenshot_1")
+
+![NextMOVE_screenshot_2](https://github.com/datariders/projects/blob/main/NextMOVE/docs/NextMOVE_screenshot_2.png?raw=true "NextMOVE_screenshot_2")
+
+![NextMOVE_screenshot_3](https://github.com/datariders/projects/blob/main/NextMOVE/docs/NextMOVE_screenshot_3.png?raw=true "NextMOVE_screenshot_3")
+
+![NextMOVE_screenshot_4](https://github.com/datariders/projects/blob/main/NextMOVE/docs/NextMOVE_screenshot_4.png?raw=true "NextMOVE_screenshot_4")
+
+![NextMOVE_screenshot_5](https://github.com/datariders/projects/blob/main/NextMOVE/docs/NextMOVE_screenshot_5.png?raw=true "NextMOVE_screenshot_5")
