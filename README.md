@@ -13,5 +13,12 @@ player’s style and tendencies.
 
 | S.No. | Sofware/tool | Description
 | --- | --- | ---
-|  1 | Open AI | Create an account in Open AI.  Generate an Open AI API key  
-|  2 | MongoDB Atlas Vector search | Create an account in MongoDB Atlas.  Create a cluster and a database instance.  Get the connection string to connect to the MongoDB database
+|  1 | Python | Python 3.x
+|  2 | Open AI | Create an account in Open AI.  Generate an Open AI API key
+|  3 | MongoDB Atlas Vector search | Create an account in MongoDB Atlas.  Create a cluster and a database instance.  Get the connection string to connect to the MongoDB database
+
+## Architecture
+
+## Control Flow
+
+## App screenshots
