@@ -3,7 +3,7 @@
 ## Contributors
 | Name 
 | ---
-|  Arivoli Tirouvingadame https://www.linkedin.com/in/arivolit/
+|  [Arivoli Tirouvingadame](https://www.linkedin.com/in/arivolit/)
 |  Jayaradha Natarajan https://www.linkedin.com/in/jayaradhaa/
 |  Sadhana Arivoli
 |  Aradhana Arivoli
