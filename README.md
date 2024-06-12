@@ -4,7 +4,7 @@
 | Name 
 | ---
 |  [Arivoli Tirouvingadame](https://www.linkedin.com/in/arivolit/)
-|  Jayaradha Natarajan https://www.linkedin.com/in/jayaradhaa/
+|  [Jayaradha Natarajan](https://www.linkedin.com/in/jayaradhaa/)
 |  Sadhana Arivoli
 |  Aradhana Arivoli
 
