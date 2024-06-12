@@ -1,6 +1,9 @@
 # NextMOVE - Personalized Chess Training Assistant
 
 ## Contributors
+- [Arivoli Tirouvingadame](https://www.linkedin.com/in/arivolit/), [Jayaradha Natarajan](https://www.linkedin.com/in/jayaradhaa/), Sadhana Arivoli, Aradhana Arivoli
+
+
 | Name 
 | ---
 |  [Arivoli Tirouvingadame](https://www.linkedin.com/in/arivolit/)
