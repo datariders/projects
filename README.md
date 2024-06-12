@@ -22,13 +22,12 @@ player’s style and tendencies.
 |  3 | MongoDB Atlas Vector search | Create an account in MongoDB Atlas.  Create a cluster and a database instance.  Get the connection string to connect to the MongoDB database
 
 ## Tech stack
-| Name 
-| ---
-|  [Arivoli Tirouvingadame](https://www.linkedin.com/in/arivolit/)
-|  [Jayaradha Natarajan](https://www.linkedin.com/in/jayaradhaa/)
-|  Sadhana Arivoli
-|  Aradhana Arivoli
-
+- Python
+- OpenAI
+- MongoDB Atlas Search
+- LangChain
+- Streamlit
+  
 
 ## Architecture
 
