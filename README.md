@@ -34,6 +34,8 @@ player’s style and tendencies.
 
 ![NextMOVE Architecture](https://github.com/datariders/projects/blob/main/NextMOVE/docs/NextMOVE_Architecture.png?raw=true "NextMOVE Architecture")
 
+Image courtesy:  https://www.mongodb.com/library/ai-resource/building-ai-retrieval-augmented-generation
+
 ## Control Flow
 
 ![NextMOVE Control flow](https://github.com/datariders/projects/blob/main/NextMOVE/docs/NextMOVE_control_flow.png?raw=true "NextMOVE Control flow")
