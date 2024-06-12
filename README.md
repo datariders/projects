@@ -26,6 +26,7 @@ player’s style and tendencies.
 - OpenAI
 - MongoDB Atlas Search
 - LangChain
+- LLM
 - Streamlit
   
 
