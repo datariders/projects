@@ -1,5 +1,14 @@
 # NextMOVE - Personalized Chess Training Assistant
 
+## Contributors
+| Name 
+| ---
+|  Arivoli Tirouvingadame
+|  Jayaradha Natarajan
+|  Sadhana Arivoli
+|  Aradhana Arivoli
+
+
 ## Background
 
 Leading Chess Grand Masters prepare for their Chess matches by working with a team of other top Chess Grand Masters.  A team collects and studies all the past games of each opponent from the Chess database.  Match preparation requires advanced opponent-specific personalized training plans.
